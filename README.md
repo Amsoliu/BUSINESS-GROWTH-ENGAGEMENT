@@ -15,7 +15,7 @@
 
 This project delivers a Business Growth & Engagement Dashboard that tracks orders, revenue, subscriptions, users, and product performance. It helps stakeholders monitor month-over-month growth, understand paid vs. free subscription mix, spot high-value customers, and act on low-engagement segments. The dashboard includes slicers (City, Order Status, Product Category) and visuals for revenue by month, overall user activity, invoice status, and a detailed customer orders table.
 
-!
+![Bussiness Engagement](https://github.com/Amsoliu/BUSINESS-GROWTH-ENGAGEMENT/issues/1#issue-3387189601)
 
 Key headline cards showcased:
 
