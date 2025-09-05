@@ -1,25 +1,21 @@
 # BUSINESS-GROWTH-ENGAGEMENT
-Table of Contents
 
-Overview
+##Table of Contents
 
-Data Source
+- [Overview](#overview)
+- [Data Source](#data-source)
+- [Tools](#tools)
+- [Data Cleaning/Preparation](#data-cleaningpreparation)
+- [Exploratory Data Analysis](#exploratory-data-analysis)
+- [Data Analysis](#data-analysis)
+- [Results and Findings](#results-and-findings)
+- [Recommendations](#recommendations)
 
-Tools
-
-Data Cleaning/Preparation
-
-Exploratory Data Analysis
-
-Data Analysis
-
-Results and Findings
-
-Recommendations
-
-Overview
+###Overview
 
 This project delivers a Business Growth & Engagement Dashboard that tracks orders, revenue, subscriptions, users, and product performance. It helps stakeholders monitor month-over-month growth, understand paid vs. free subscription mix, spot high-value customers, and act on low-engagement segments. The dashboard includes slicers (City, Order Status, Product Category) and visuals for revenue by month, overall user activity, invoice status, and a detailed customer orders table.
+
+!
 
 Key headline cards showcased:
 
